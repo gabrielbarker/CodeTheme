@@ -529,6 +529,59 @@
           "activityBar.background": "#030D15"
         }
       }
+    },
+    {
+      "name": "suede",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#15346B",
+          "functions": "#00F2BB",
+          "keywords": "#FF4A47",
+          "numbers": "#FF4A47",
+          "strings": "#00E2DE",
+          "types": "#00AAA6",
+          "variables": "#FFEE95"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#0B111D",
+          "foreground": "#EFD06A",
+          "widget.shadow": "#090E17",
+          "selection.background": "#070A11",
+          "descriptionForeground": "#700806",
+          "errorForeground": "#F43532",
+          "editor.background": "#070A11",
+          "sideBar.background": "#090E17",
+          "sideBar.foreground": "#F88786",
+          "menu.background": "#070A11",
+          "menu.foreground": "#098C72",
+          "terminal.background": "#090E17",
+          "badge.background": "#04070C",
+          "input.background": "#070A11",
+          "panel.background": "#090E17",
+          "tab.activeBackground": "#04070C",
+          "tab.inactiveBackground": "#090E17",
+          "button.background": "#04070C",
+          "activityBar.background": "#070A11"
+        }
+      }
     }
   ]
 }
