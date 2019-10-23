@@ -1,0 +1,20 @@
+{
+  "name": "codeTheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^3.1.2",
+    "commander": "^3.0.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "bin": {
+    "codeTheme": "./bin/index.js"
+  }
+}

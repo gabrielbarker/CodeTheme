@@ -1,0 +1,269 @@
+{
+  "themes": [
+    {
+      "name": "vibrant1",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#AE0000",
+          "functions": "#10ED52",
+          "keywords": "#FD7A00",
+          "numbers": "#FD7A00",
+          "strings": "#FF340F",
+          "types": "#D31C00",
+          "variables": "#FF9214"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#2D0708",
+          "foreground": "#5A0E11",
+          "widget.shadow": "#240607",
+          "selection.background": "#1B0405",
+          "descriptionForeground": "#240607",
+          "errorForeground": "#240607",
+          "editor.background": "#1B0405",
+          "sideBar.background": "#240607",
+          "sideBar.foreground": "#DB8531",
+          "menu.background": "#1B0405",
+          "menu.foreground": "#1B0405",
+          "terminal.background": "#240607",
+          "badge.background": "#120303",
+          "input.background": "#1B0405",
+          "panel.background": "#240607",
+          "tab.activeBackground": "#120303",
+          "tab.inactiveBackground": "#240607",
+          "button.background": "#120303",
+          "activityBar.background": "#1B0405"
+        }
+      }
+    },
+    {
+      "name": "roses",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#CA96A3",
+          "functions": "#FF5F6E",
+          "keywords": "#EE5C4B",
+          "numbers": "#EE5C4B",
+          "strings": "#F98782",
+          "types": "#F42F28",
+          "variables": "#7EC57D"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#432B31",
+          "foreground": "#865662",
+          "widget.shadow": "#362227",
+          "selection.background": "#281A1D",
+          "descriptionForeground": "#362227",
+          "errorForeground": "#362227",
+          "editor.background": "#281A1D",
+          "sideBar.background": "#362227",
+          "sideBar.foreground": "#D9847B",
+          "menu.background": "#281A1D",
+          "menu.foreground": "#281A1D",
+          "terminal.background": "#362227",
+          "badge.background": "#1B1114",
+          "input.background": "#281A1D",
+          "panel.background": "#362227",
+          "tab.activeBackground": "#1B1114",
+          "tab.inactiveBackground": "#362227",
+          "button.background": "#1B1114",
+          "activityBar.background": "#281A1D"
+        }
+      }
+    },
+    {
+      "name": "vibrant2",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#008EA9",
+          "functions": "#FCFF25",
+          "keywords": "#FFE443",
+          "numbers": "#FFE443",
+          "strings": "#83E750",
+          "types": "#58CD1C",
+          "variables": "#FF574A"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#06262C",
+          "foreground": "#0D4C57",
+          "widget.shadow": "#051E23",
+          "selection.background": "#04171A",
+          "descriptionForeground": "#051E23",
+          "errorForeground": "#051E23",
+          "editor.background": "#04171A",
+          "sideBar.background": "#051E23",
+          "sideBar.foreground": "#F1D87F",
+          "menu.background": "#04171A",
+          "menu.foreground": "#04171A",
+          "terminal.background": "#051E23",
+          "badge.background": "#030F11",
+          "input.background": "#04171A",
+          "panel.background": "#051E23",
+          "tab.activeBackground": "#030F11",
+          "tab.inactiveBackground": "#051E23",
+          "button.background": "#030F11",
+          "activityBar.background": "#04171A"
+        }
+      }
+    },
+    {
+      "name": "pastel1",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#1BD29F",
+          "functions": "#FF8176",
+          "keywords": "#FFC85E",
+          "numbers": "#FFC85E",
+          "strings": "#FFE9AD",
+          "types": "#FFCC40",
+          "variables": "#A0DCAB"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#12382E",
+          "foreground": "#24705B",
+          "widget.shadow": "#0E2D24",
+          "selection.background": "#0B221B",
+          "descriptionForeground": "#0E2D24",
+          "errorForeground": "#0E2D24",
+          "editor.background": "#0B221B",
+          "sideBar.background": "#0E2D24",
+          "sideBar.foreground": "#FBD19B",
+          "menu.background": "#0B221B",
+          "menu.foreground": "#0B221B",
+          "terminal.background": "#0E2D24",
+          "badge.background": "#071612",
+          "input.background": "#0B221B",
+          "panel.background": "#0E2D24",
+          "tab.activeBackground": "#071612",
+          "tab.inactiveBackground": "#0E2D24",
+          "button.background": "#071612",
+          "activityBar.background": "#0B221B"
+        }
+      }
+    },
+    {
+      "name": "vibrant3",
+      "settings": {
+        "editor.rulers": [
+          100
+        ],
+        "editor.renderWhitespace": "boundary",
+        "workbench.colorTheme": "Visual Studio Dark",
+        "workbench.iconTheme": "Monokai Pro Icons",
+        "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "salesforcedx-vscode-apex.java.home": "",
+        "files.exclude": {
+          "**/.classpath": true,
+          "**/.project": true,
+          "**/.settings": true,
+          "**/.factorypath": true
+        },
+        "editor.fontSize": 14,
+        "zenMode.centerLayout": false,
+        "editor.tokenColorCustomizations": {
+          "comments": "#7A7646",
+          "functions": "#FF3D52",
+          "keywords": "#FF5F08",
+          "numbers": "#FF5F08",
+          "strings": "#3EFFEA",
+          "types": "#00FED8",
+          "variables": "#FFFF56"
+        },
+        "workbench.colorCustomizations": {
+          "focusBorder": "#232218",
+          "foreground": "#474531",
+          "widget.shadow": "#1C1C14",
+          "selection.background": "#15150F",
+          "descriptionForeground": "#1C1C14",
+          "errorForeground": "#1C1C14",
+          "editor.background": "#15150F",
+          "sideBar.background": "#1C1C14",
+          "sideBar.foreground": "#F98451",
+          "menu.background": "#15150F",
+          "menu.foreground": "#15150F",
+          "terminal.background": "#1C1C14",
+          "badge.background": "#0E0E0A",
+          "input.background": "#15150F",
+          "panel.background": "#1C1C14",
+          "tab.activeBackground": "#0E0E0A",
+          "tab.inactiveBackground": "#1C1C14",
+          "button.background": "#0E0E0A",
+          "activityBar.background": "#15150F"
+        }
+      }
+    }
+  ]
+}

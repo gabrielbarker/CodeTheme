@@ -1,0 +1,20 @@
+{
+    "editor.rulers": [
+        100
+    ],
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "salesforcedx-vscode-apex.java.home": "",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontSize": 14,
+    "zenMode.centerLayout": false
+}
