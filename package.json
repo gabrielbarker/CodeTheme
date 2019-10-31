@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "",
   "main": "bin/index.js",
+  "repository": "gabrielbarker/CodeTheme",
   "scripts": {
     "install": "code-theme __init__"
   },
