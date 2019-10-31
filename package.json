@@ -2,8 +2,7 @@
   "name": "code-theme",
   "version": "1.0.3",
   "description": "",
-  "main": "index.js",
-  "entry point": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "install": "code-theme __init__"
   },
