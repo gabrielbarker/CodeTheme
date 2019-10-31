@@ -1,12 +1,12 @@
 {
   "name": "code-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "install": "code-theme __init__"
   },
-  "keywords": [],
+  "keywords": ["color", "colour", "theme", "vscode", "palette"],
   "author": "gabrielbarker",
   "license": "ISC",
   "dependencies": {
