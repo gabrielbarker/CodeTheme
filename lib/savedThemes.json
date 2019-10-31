@@ -1,3 +1,43 @@
 {
-  "themes": []
+  "themes": [
+    {
+      "name": "mellow",
+      "settings": {
+        "editor.tokenColorCustomizations": {
+          "[Visual Studio Dark]": {
+            "comments": "#00EEFF",
+            "functions": "#C1D5AF",
+            "keywords": "#FF5F36",
+            "numbers": "#FF5F36",
+            "strings": "#42ECEC",
+            "types": "#15CECE",
+            "variables": "#FFD28B"
+          }
+        },
+        "workbench.colorCustomizations": {
+          "[Visual Studio Dark]": {
+            "focusBorder": "#043E47",
+            "foreground": "#E3B267",
+            "widget.shadow": "#033239",
+            "selection.background": "#02252B",
+            "descriptionForeground": "#6C1705",
+            "errorForeground": "#F44B27",
+            "editor.background": "#02252B",
+            "sideBar.background": "#033239",
+            "sideBar.foreground": "#F88E78",
+            "menu.background": "#02252B",
+            "menu.foreground": "#89A372",
+            "terminal.background": "#033239",
+            "badge.background": "#01191C",
+            "input.background": "#02252B",
+            "panel.background": "#033239",
+            "tab.activeBackground": "#01191C",
+            "tab.inactiveBackground": "#033239",
+            "button.background": "#01191C",
+            "activityBar.background": "#02252B"
+          }
+        }
+      }
+    }
+  ]
 }
