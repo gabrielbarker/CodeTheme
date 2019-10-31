@@ -4,7 +4,7 @@ const program = require("commander");
 const theme = require("../lib/theme");
 
 program
-  .command("-initialise")
+  .command("--initialise")
   .alias("__init__")
   .description(
     "Initialise the app. Enter the full filepath of your VS Code's settings.json file."
@@ -51,14 +51,6 @@ program
   .description("Open a saved theme")
   .action(function(name) {
     theme.setThemeToSavedTheme(name);
-  });
-
-program
-  .command("slack")
-  .alias("sl")
-  .description("Generate a slack theme")
-  .action(function() {
-    theme.createSlackTheme();
   });
 
 program.parse(process.argv);

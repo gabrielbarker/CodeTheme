@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "codeTheme __init__"
   },
   "keywords": [],
-  "author": "",
+  "author": "gabrielbarker",
   "license": "ISC",
   "dependencies": {
     "color": "^3.1.2",
