@@ -38,6 +38,84 @@
           }
         }
       }
+    },
+    {
+      "name": "desert",
+      "settings": {
+        "editor.tokenColorCustomizations": {
+          "[Visual Studio Dark]": {
+            "comments": "#7296AC",
+            "functions": "#F78656",
+            "keywords": "#F6F07A",
+            "numbers": "#F6F07A",
+            "strings": "#E87179",
+            "types": "#DC2733",
+            "variables": "#FFD6A1"
+          }
+        },
+        "workbench.colorCustomizations": {
+          "[Visual Studio Dark]": {
+            "focusBorder": "#252E35",
+            "foreground": "#F2B371",
+            "widget.shadow": "#1E252A",
+            "selection.background": "#161C20",
+            "descriptionForeground": "#615E1A",
+            "errorForeground": "#D4CF5E",
+            "editor.background": "#161C20",
+            "sideBar.background": "#1E252A",
+            "sideBar.foreground": "#E7E5A6",
+            "menu.background": "#161C20",
+            "menu.foreground": "#BF5A2F",
+            "terminal.background": "#1E252A",
+            "badge.background": "#0F1315",
+            "input.background": "#161C20",
+            "panel.background": "#1E252A",
+            "tab.activeBackground": "#0F1315",
+            "tab.inactiveBackground": "#1E252A",
+            "button.background": "#0F1315",
+            "activityBar.background": "#161C20"
+          }
+        }
+      }
+    },
+    {
+      "name": "zion",
+      "settings": {
+        "editor.tokenColorCustomizations": {
+          "[Visual Studio Dark]": {
+            "comments": "#2DA50B",
+            "functions": "#FFA133",
+            "keywords": "#FFD514",
+            "numbers": "#FFD514",
+            "strings": "#67BE77",
+            "types": "#429A52",
+            "variables": "#FF2232"
+          }
+        },
+        "workbench.colorCustomizations": {
+          "[Visual Studio Dark]": {
+            "focusBorder": "#132C0C",
+            "foreground": "#DD1F2C",
+            "widget.shadow": "#0F2309",
+            "selection.background": "#0B1A07",
+            "descriptionForeground": "#55440C",
+            "errorForeground": "#D5AB1D",
+            "editor.background": "#0B1A07",
+            "sideBar.background": "#0F2309",
+            "sideBar.foreground": "#E8C653",
+            "menu.background": "#0B1A07",
+            "menu.foreground": "#DC7211",
+            "terminal.background": "#0F2309",
+            "badge.background": "#071105",
+            "input.background": "#0B1A07",
+            "panel.background": "#0F2309",
+            "tab.activeBackground": "#071105",
+            "tab.inactiveBackground": "#0F2309",
+            "button.background": "#071105",
+            "activityBar.background": "#0B1A07"
+          }
+        }
+      }
     }
   ]
 }
