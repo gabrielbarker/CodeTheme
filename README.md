@@ -27,4 +27,8 @@ This will tell you that you can run the following commands:
 
 If you need to set the path of the settings file again then you can run:
 
-```code-theme __init__```  
+```code-theme __init__``` 
+
+## Colormind
+
+Colormind is an amazing, intelligent colour palette generator. It changes the source material for the colour schemes that will be generated every day so code-theme will be able to continually supply diverse, unique themes.
