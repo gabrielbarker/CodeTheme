@@ -45,4 +45,12 @@ program
         theme.setThemeToSavedTheme(name);
     });
 
+program
+    .command('slack')
+    .alias('sl')
+    .description('Generate a slack theme')
+    .action(function () {
+        theme.createSlackTheme();
+    });
+
 program.parse(process.argv);
