@@ -3,11 +3,10 @@
 A CLI app that sets your VS Code theme to a randomly generated colour palette, powered by Colormind.
 
 ## Installation
-
-In order to install code-theme you will be asked to supply it with the complete filepath of your VS Code's *settings.json* file. This can be found by going to *settings* in VS Code and following a link to 'Edit in settings.json'. Then copy this file's full path.
-
 In order to be able to run code-theme from anywhere you should run the command
 ```npm i code-theme -g```
+
+In order to install code-theme you will be asked to supply it with the complete filepath of your VS Code's *settings.json* file. This can be found by going to *settings* in VS Code and following a link to 'Edit in settings.json'. Then copy this file's full path.
 
 ## Usage
 

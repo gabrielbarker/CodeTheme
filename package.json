@@ -1,13 +1,23 @@
 {
   "name": "code-theme",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "description": "",
-  "main": "index.js",
-  "entry point": "index.js",
+  "main": "bin/index.js",
+  "repository": "gabrielbarker/CodeTheme",
   "scripts": {
     "install": "code-theme __init__"
   },
-  "keywords": ["color", "colour", "theme", "vscode", "palette"],
+  "keywords": [
+    "cli",
+    "color",
+    "colour",
+    "theme",
+    "palette",
+    "productivity",
+    "vscode",
+    "development",
+    "dx"
+  ],
   "author": "gabrielbarker",
   "license": "ISC",
   "dependencies": {
