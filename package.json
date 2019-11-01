@@ -5,7 +5,6 @@
   "main": "bin/index.js",
   "repository": "gabrielbarker/CodeTheme",
   "scripts": {
-    "preinstall": "cd ~ && mkdir .code-theme && cd .code-theme",
     "install": "code-theme __init__"
   },
   "keywords": [
