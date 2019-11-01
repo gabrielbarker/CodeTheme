@@ -8,10 +8,6 @@ In order to be able to run code-theme from anywhere you should run the command
 
 In order to install code-theme you will be asked to supply it with the complete filepath of your VS Code's *settings.json* file. This can be found by going to *settings* in VS Code and following a link to 'Edit in settings.json'. Then copy this file's full path.
 
-### Housekeeping
-*as this package will live at your root directory you may want to tidy it up by running the following:*
-```cd ~ && mkdir .code-theme && mv node_modules .code-theme && mv package-lock.json .code-theme```
-
 ## Usage
 
 To view all possible commands enter:
