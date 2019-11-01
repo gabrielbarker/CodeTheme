@@ -8,11 +8,15 @@
     "install": "code-theme __init__"
   },
   "keywords": [
+    "cli",
     "color",
     "colour",
     "theme",
+    "palette",
+    "productivity",
     "vscode",
-    "palette"
+    "development",
+    "dx"
   ],
   "author": "gabrielbarker",
   "license": "ISC",
